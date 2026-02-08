@@ -25,7 +25,7 @@ Static Website Hosting
 
 **Architecture/Design decisions**
 
-Due to the nature of the concept either Azure Tables services or Azure BlobSstorage would be the correct services to use. In some cases it could be ideal to use both Azure Blob(for web images and text defintions) and Azure Table(as an archive) services but, in this case I will only be demonstrating only Azure Blob to avoid confusion and complexity.
+Due to the nature of the concept either Azure Tables services or Azure Blob Storage would be the correct services to use. In some cases it could be ideal to use both Azure Blob(for web images and text defintions) and Azure Table(as an archive) services but, in this case I will only be demonstrating only Azure Blob to avoid confusion and complexity.
 Local Redundant Storage was chosen to minimise the cost of the project as a whole. 
 
 **What I learnt**
