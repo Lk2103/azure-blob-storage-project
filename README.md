@@ -4,7 +4,7 @@ A project demonstrating the use and functionality of azure blob storage service
 
 **Project Overview**
 
-This project demonstrates the use of Azure Blob Storage to host a static website along with storing of unstructured data. This simulates a real world business scenario. The concept of the website(and the project as whole) is a computer marketplace. Azure Blob service is used to provide the static content such as images and text.
+This project demonstrates the use of Azure Blob Storage to host a static website along with storing of unstructured data. This simulates a real world business scenario. The concept of the website (and the project as whole) is a computer marketplace. Azure Blob service is used to provide the static content such as images and text.
 
 This project includes demonstrations of:
 
