@@ -20,7 +20,7 @@ Static Website Hosting
 
 <img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/c770bb14-5c88-4dd2-bdbe-5e02ffc684da" />
 
-*Screenshot of the Static Website being enabled(Index.html in Azure Blob Storage*
+*Screenshot of the Static Website being enabled(Index.html in Azure Blob Storage)*
 
 
 **Architecture/Design decisions**
